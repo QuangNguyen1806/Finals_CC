@@ -3,7 +3,7 @@ const cols            = 20;
 const rows            = 20;
 const cellSize        = 30;
 const LIGHT_RADIUS    = 75;
-const OVERLAY_OPACITY = 0.1;
+const OVERLAY_OPACITY = 0.8;
 
 let grid = [];
 let stack = [];
